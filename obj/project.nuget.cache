@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSCLSvVCSPxzza/yNopOLcHtV9YSQqd2LOTD4bJar5/vy6E+ijn/5e+1sOkqPRy3ElqK5QQc1/cqK1QhMHL7IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jimmy\\source\\repos\\Jvu.Test.SharedLib.NonTsDeps\\Jvu.Test.SharedLib.NonTsDeps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jimmy\\.nuget\\packages\\autobogus\\2.13.1\\autobogus.2.13.1.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\jvu.test.sharedlib.nodeps\\1.0.2\\jvu.test.sharedlib.nodeps.1.0.2.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

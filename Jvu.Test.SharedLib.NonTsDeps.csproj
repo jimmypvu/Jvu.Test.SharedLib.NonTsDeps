@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageOutputPath>C:/users/Public/./nupkg</PackageOutputPath>
+
+    <!-- nuget related properties -->
+    <Authors>J.VU</Authors>
+    <Description>Test library with mini util for random data generation</Description>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoBogus" Version="2.13.1" />
+    <PackageReference Include="Jvu.Test.SharedLib.NoDeps" Version="1.0.2" />
+  </ItemGroup>
+
+</Project>
